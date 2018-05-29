@@ -1,2 +1,5 @@
-# essentia_pharma
-Pequeno Projeto PHP + MVC + PDO + Bootstrap+
+# Projeto Teste Essentia Pharma
+
+Pequeno Projeto CRUD feito para o processo seletivo
+
+Foi feito em PHP + MVC + PDO + Bootstrap + Jquery
