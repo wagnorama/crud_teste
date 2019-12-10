@@ -1,6 +1,6 @@
-# Projeto Teste Essentia Pharma
+# Projeto Teste crud
 
-Pequeno Projeto CRUD feito para o processo seletivo
+Pequeno Projeto CRUD
 
 Foi feito em PHP + MVC + PDO + Bootstrap + Jquery
 
